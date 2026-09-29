@@ -12,8 +12,8 @@ Welcome to my repository! This project tracks my progress and contains my verifi
 ## 📂 Repository Structure & Solved Challenges
 
 ### 🔹 1. Introduction Basics
-* `Hello World.c` — Understanding standard output formatting (`printf`).
-* `Playing With Characters.c` — Reading individual characters and simple words.
+* 'Hello World.c' — Understanding standard output formatting ('printf').
+* 'Playing With Characters.c' — Reading individual characters and simple words.
 * 'Sum and Difference.c'- To understand use of float and int.
 
 ___
