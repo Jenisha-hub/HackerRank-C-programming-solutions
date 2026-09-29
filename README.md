@@ -14,14 +14,10 @@ Welcome to my repository! This project tracks my progress and contains my verifi
 ### 🔹 1. Introduction Basics
 * `Hello World.c` — Understanding standard output formatting (`printf`).
 * `Playing With Characters.c` — Reading individual characters and simple words.
+* 'Sum and Difference.c'- To understand use of float and int.
 
-### 🔹 2. Conditionals and Loops
-* *Upcoming solutions will be tracked here!*
+___
 
-### 🔹 3. Strings & Buffers
-* `String Spaces.c` — Handling multi-word string sentences using `fgets()` and managing the C input buffer with `getchar()`.
-
----
 
 ## 📈 Learning Objectives
 * Master C memory buffers, pointers, and array string indices.
