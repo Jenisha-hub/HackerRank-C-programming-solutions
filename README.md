@@ -12,11 +12,11 @@ Welcome to my repository! This project tracks my progress and contains my verifi
 ## 📂 Repository Structure & Solved Challenges
 
 ### 💠 1. Introduction Basics
-* 'Hello World' — Understanding standard output formatting ('printf').
-* 'Playing With Characters' — Reading individual characters and simple words.
+* 'Hello World' - Understanding standard output formatting ('printf').
+* 'Playing With Characters' - Reading individual characters and simple words.
 * 'Sum and Difference'- To understand use of float and int.
-* 'Functions in C'-To understand user defined functions.
-* 'Pointers in C'-To understand use of pointers.
+* 'Functions in C' - To understand user defined functions.
+* 'Pointers in C' - To understand use of pointers.
 
 ### 💠 2.Looping and Conditions
 
