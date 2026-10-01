@@ -1,11 +1,8 @@
-# 🚀 HackerRank Solutions
+# 🚀 HackerRank-C-programming-solutions
 My solutions to HackerRank coding challenges
 
 
-Welcome to my repository! This project tracks my progress and contains my verified solutions for various coding challenges on HackerRank. It serves as a personal log of my programming journey and problem-solving skills.
-
-## 🛠️ Tech Stack & Languages
-* **C** (Procedural Programming & Memory Management)
+Welcome to my repository! This project tracks my progress and contains my verified solutions for various C programming coding challenges on HackerRank. It serves as a personal log of my programming journey and problem-solving skills.
 
 ---
 
