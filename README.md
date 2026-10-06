@@ -16,6 +16,7 @@ Welcome to my repository! This project tracks my progress and contains my verifi
 * 'Pointers in C' - To understand use of pointers.
 
 ### 💠 2.Looping and Conditions
+* 'Conditional Statements in C' - Understand how to use conditional statements.
 
 
 ## 📈 Learning Objectives
