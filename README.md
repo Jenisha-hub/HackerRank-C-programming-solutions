@@ -17,6 +17,7 @@ Welcome to my repository! This project tracks my progress and contains my verifi
 
 ### 💠 2.Looping and Conditions
 * 'Conditional Statements in C' - Understand how to use conditional statements.
+* 'For loops in C' - Understand how to write for loops.
 
 
 ## 📈 Learning Objectives
