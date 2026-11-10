@@ -1,0 +1,18 @@
+#include <stdio.h>
+#include <string.h>
+#include <math.h>
+#include <stdlib.h>
+
+int main() {
+	
+    int n;
+    scanf("%d", &n);
+    int ld=n%10;
+    int td=n%100/10;
+    int hd=n%1000/100;
+    int thd=n%10000/1000;
+    int fd=n/10000;
+    printf("%d",ld+td+hd+thd+fd);
+    //Complete the code to calculate the sum of the five digits on n.
+    return 0;
+}
